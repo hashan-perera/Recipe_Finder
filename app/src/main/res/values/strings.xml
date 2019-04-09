@@ -7,7 +7,7 @@
     <string name="recipe">Recipe</string>
     <string name="search">Search</string>
     <string name="name">Name</string>
-    <string name="weight">Weight</string>
+    <string name="weight">Weight(kg)</string>
     <string name="price">Price</string>
     <string name="description">Description</string>
     <string name="save">Save</string>

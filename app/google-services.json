@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "177161617600",
-    "firebase_url": "https://recipeapp-b461b.firebaseio.com",
-    "project_id": "recipeapp-b461b",
-    "storage_bucket": "recipeapp-b461b.appspot.com"
+    "project_number": "870423030813",
+    "firebase_url": "https://recipefinder-ba0a3.firebaseio.com",
+    "project_id": "recipefinder-ba0a3",
+    "storage_bucket": "recipefinder-ba0a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:177161617600:android:f9b3b7493c61e216",
+        "mobilesdk_app_id": "1:870423030813:android:f9b3b7493c61e216",
         "android_client_info": {
           "package_name": "com.example.recipe_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "177161617600-vjfvbv5eroqhdp1qdi3sfqr8ss7uu4qm.apps.googleusercontent.com",
+          "client_id": "870423030813-nacfehjoabbhaihjumrtgmm76qu5ctm5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.recipe_app",
@@ -25,14 +25,14 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBEg_NDyp4H6_WdTQn1OJ5v8a52jKH65x0"
+          "current_key": "AIzaSyDl37oMRiHzejwxCbXR04n3hLP1h3EsIuc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "177161617600-da584av0hkvu9glhqda9it4j168204g1.apps.googleusercontent.com",
+              "client_id": "870423030813-t4q88h61kn35j3eutmth19r4ulc876nn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
