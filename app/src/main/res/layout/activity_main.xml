@@ -29,6 +29,7 @@
         android:layout_marginBottom="10dp"
         android:background="@drawable/custom_shape"
         android:text="@string/display_prod"
+        android:onClick="displayProducts"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/available"
         app:layout_constraintEnd_toEndOf="parent"

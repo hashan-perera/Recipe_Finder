@@ -26,15 +26,14 @@ public class RegisterProduct extends AppCompatActivity {
         mydb = new DatabaseHelper(this);
 
         //
-        AddData();
-
+        AddProduct();
     }
 
-    public void AddData() {
+    public void AddProduct() {
         save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                boolean isInserted = mydb.insertData(
+                boolean isInserted = mydb.addProduct(
                         name.getText().toString(),
                         weight.getText().toString(),
                         price.getText().toString(),

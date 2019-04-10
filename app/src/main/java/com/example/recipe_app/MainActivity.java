@@ -27,4 +27,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void displayProducts(View view) {
+        Intent intent = new Intent(getApplicationContext(), DisplayProducts.class);
+        startActivity(intent);
+    }
+
 }
