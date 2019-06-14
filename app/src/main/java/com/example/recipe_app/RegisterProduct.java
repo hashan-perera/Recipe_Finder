@@ -38,7 +38,7 @@ public class RegisterProduct extends AppCompatActivity {
                         weight.getText().toString(),
                         price.getText().toString(),
                         description.getText().toString());
-                if (isInserted == true)
+                if (isInserted)
                     Toast.makeText(RegisterProduct.this, "Added to Database", Toast.LENGTH_SHORT).show();
                 else
                     Toast.makeText(RegisterProduct.this, "Error!", Toast.LENGTH_SHORT).show();
